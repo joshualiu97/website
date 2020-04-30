@@ -1,0 +1,52 @@
+.skills {
+  .img-skills {
+    display: block;
+    image-orientation: from-image;
+    width: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    border: 2px solid rgb(156, 165, 184);
+    margin-bottom: 0;
+  }
+
+  .skills-main-box {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    margin: 1% 0;
+  }
+
+  .ind-skill-box {
+    margin: 1%;
+    border: 3px solid rgb(156, 165, 184);
+    vertical-align: bottom;
+    display: inline-block;
+    width: 40%;
+    padding: 0 3%;
+    height: 40vh;
+    border-radius: 2%;
+  }
+
+  .skills-header {
+    text-align: center;
+    font-size: 5vh;//3.5vw;
+  }
+
+  .skill-title {
+    font-size: 4.5vh; //3vw;
+    margin-bottom: 2%;
+  }
+
+  .list-skills {
+    list-style: square;
+    
+    li {
+      text-align: left;
+      font-size: 1vw; // 2vw;
+      line-height: 120%;
+      width: auto;
+    }
+  }
+}

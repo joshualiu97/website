@@ -1,0 +1,49 @@
+.experience {
+
+  .exp-header {
+    font-size: 5vh; //3.5vw;
+  }
+  .exp-list {
+    list-style-type: none;
+    padding: 0;
+
+    li {
+      .img-exp {
+        display: block;
+        image-orientation: from-image;
+        width: 50vh;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 2%;
+        border: 2px solid rgb(156, 165, 184);
+        margin-bottom: 2%; 
+      }
+
+      margin: 1%;
+      border: 3px solid rgb(156, 165, 184);
+      border-radius: 1%;
+
+      display: inline-block;
+      width: 60%;
+      padding: 0 3%;
+      height: auto;
+      vertical-align: top;
+
+      .exp-title {
+        font-size: 3vw;
+        margin-bottom: 2%;
+        margin-top: 2%;
+      }
+      
+      .exp-body {
+        margin: 0;
+        text-align: left;
+        font-size: 1vw;
+        line-height: 120%;
+        margin-bottom: 2%;
+      }
+    }
+
+  }
+
+}
