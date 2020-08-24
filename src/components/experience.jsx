@@ -102,8 +102,8 @@ class Experience extends Component {
                 My work includes researching ML models best fit for our use case, as well as experimenting with different computer 
                 vision algorithms to get the best results, such as using K-means clustering and many methods of filtering.
 
-                <img className="img-exp" src={UAS_input} alt="UAS Input Image"></img>
-                <img className="img-exp" src={UAS_result} alt="UAS Result Image"></img>
+                <img className="img-exp" src={UAS_input} alt="UAS Input"></img>
+                <img className="img-exp" src={UAS_result} alt="UAS Result"></img>
               </p>
             </li>
 
