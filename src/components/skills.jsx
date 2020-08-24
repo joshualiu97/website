@@ -20,10 +20,13 @@ class Skills extends Component {
                 <li>Python</li>
                 <li>Javascript</li>
                 <li>Java</li>
+                <li>TypeScript</li>
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>x86-64 Assembly Language</li>
                 <li>OCaml</li>
+                <li>Prolog</li>
+                <li>Scheme</li>
                 
               </ul>
             </div>
@@ -34,6 +37,8 @@ class Skills extends Component {
               <p className="skill-title">Frameworks/Libraries/Tools</p>
             
               <ul className="list-skills">
+                <li>Amazon Web Services</li>
+                <li>PyQt5</li>
                 <li>OpenCV</li>
                 <li>React</li>
                 <li>Node</li>
@@ -67,6 +72,8 @@ class Skills extends Component {
               <p className="skill-title">Relevant Coursework</p>
 
               <ul className="list-skills">
+                <li>Machine Learning</li>
+                <li>Programming Languages</li>
                 <li>Operating System Principles</li>
                 <li>Computer Architecture</li>
                 <li>Machine Learning</li>
