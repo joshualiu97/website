@@ -7,10 +7,11 @@ class Profile extends Component {
       <div className="box">
         <img className="profile" src={profile} alt="profile" />
         <div className="aboutMe">
-          Hello! I am Joshua Liu, a third-year student at UCLA majoring in
-          Computer Science. I am interning at Amazon this summer as
-          a software development engineer. My interests include the fields of computer vision,
-          artificial intelligence, and machine learning. Visit my social links below!
+          Hello! I am Joshua Liu, a Software Engineer working at Meta Platforms.
+          I graduated from UCLA with a degree in Computer Science in June 2022.
+          I interned at Facebook duing Fall 2021, and interned with Amazon during
+          Summer 2021 and Summer 2020. My interests include backend, infra, fullstack,
+          and anything related to data -- computer vision, AI, and ML. Visit my social links below! 
         </div>
 
         <div className="social">
